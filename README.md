@@ -1,1 +1,3 @@
 # Charity-ML
+## Project: Finding Donors for CharityML
+In this project, I have applied several Machine learning models to accurately model individual's income using data collected from 1994 US Cenus. Then I have choosen best candidate model based on preliminary result to further optimize algorithm to best model the data. Goal of implementation is to predict if Individual makes more than 50K or less. This sort of task arise in an non profit setting where organisation surive on donations. Having this prediction would help non profit to better understand how large of donation to request or whether or not to reach out to begin with.
